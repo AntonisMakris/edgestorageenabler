@@ -1,2 +1,1 @@
-# edgestorageenabler.github.io
-Edge Storage Enabler
+## EdgeForge website
